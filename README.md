@@ -8,7 +8,7 @@ We use this dataset to test some pandas manipulation and functions.
 ## Assumption
 
 "311_Service_Requests_2020.csv" is in the current directry, this is not uploaded on github and can be dowloaded [**here**][here]
-
+Zip code : 10025
 
 [here]: https://drive.google.com/drive/folders/1BRd8_RSST69UaZRBeD_dtXGw9fuKoBZE
 
